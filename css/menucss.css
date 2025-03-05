@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    width: 50px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
