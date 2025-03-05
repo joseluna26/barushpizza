@@ -10,7 +10,7 @@ body {
 .images {
     display: flex;
     justify-content: space-evenly;
-    width: 40%;
+    /* width: 40%; */
 }
 
 
